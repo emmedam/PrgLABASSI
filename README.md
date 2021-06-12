@@ -28,3 +28,8 @@ L’applicazione consente quindi di accedere ai suddetti contenuti e poterli com
 Il sito gestisce le seguenti entità:
 Post: il post creato dall’utente. Viene salvato il titolo, la descrizione, e l’immagine correlata al post. 
 
+## Mockups
+
+![Login_Form](https://user-images.githubusercontent.com/82807015/121779437-e9558f00-cb9b-11eb-8b90-f564602aae89.png)
+![Nav_Bar](https://user-images.githubusercontent.com/82807015/121779440-ebb7e900-cb9b-11eb-9deb-6eabfa57ba82.png)
+![De100d0e1b830724b5716718ef95b9102](https://user-images.githubusercontent.com/82807015/121779418-cfb44780-cb9b-11eb-87ae-6425824e278c.png)
