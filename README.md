@@ -11,7 +11,7 @@
   - **[Modalità di accesso](#modalità-di-accesso)**
   - **[Dati gestiti](#dati-gestiti)**
 - **[Mockups](#mockups)**
-  - **[Login](#login)**
+  <!--- - **[Login](#login)**
   - **[Registrazione](#registrazione)**
   - **[NavBar](#navbar)**
   - **[Post](#post)**
@@ -19,7 +19,7 @@
   - **[ContactUs](#contactus)**
   - **[Amministrazione](#amministrazione)**
   - **[Home](#home)**
-  - **[Post Form](#post-form)**
+  - **[Post Form](#post-form)**)--->
 - **[User Stories](#user-stories)**
   
 
