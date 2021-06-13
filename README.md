@@ -4,14 +4,15 @@
 >Aloisi Lorenzo: 1836344, <br>D'Amico Martina: 1791820, <br>Dito Andrea: 1844760*
 
 <h1>GreenNetwork </h1>
+
 ### Indice
-**[Documentazione progetto](#Documentazione-progetto)**<br>
-**[Mockups](#Mockups)**<br>
+**[Documentazione progetto](#documentazione-progetto)**<br>
+**[Mockups](#mockups)**<br>
 
 
 
 
-# Documentazione progetto
+## Documentazione progetto
 GreenNetwork è un’applicazione social/forum che mette a disposizione dei suoi utenti uno spazio in cui pubblicare:
 * contenuti informativi/consigli atti alla salvaguardia dell’ambiente;
 * foto di avvistamenti di specie botaniche e animali in pericolo di estinzione;
