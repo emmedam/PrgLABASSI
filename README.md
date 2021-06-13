@@ -37,9 +37,11 @@ Post: il post creato dall’utente. Viene salvato il titolo, la descrizione, e l
 
 ## Mockups
 
-![Login_Form](https://user-images.githubusercontent.com/82807015/121779437-e9558f00-cb9b-11eb-8b90-f564602aae89.png)
-![Nav_Bar](https://user-images.githubusercontent.com/82807015/121779440-ebb7e900-cb9b-11eb-9deb-6eabfa57ba82.png)
-![De100d0e1b830724b5716718ef95b9102](https://user-images.githubusercontent.com/82807015/121779418-cfb44780-cb9b-11eb-87ae-6425824e278c.png)
+![Login_Form](https://user-images.githubusercontent.com/82807015/121809546-7ad90580-cc5d-11eb-835e-a843534a6dd6.png)
+![Nav_Bar](https://user-images.githubusercontent.com/82807015/121809547-7b719c00-cc5d-11eb-9ef1-348d85327343.png)
+![Post_page](https://user-images.githubusercontent.com/82807015/121809548-7c0a3280-cc5d-11eb-8f0e-4c04799e8e2a.png)
+
+
 
 ![SignUp](img/Mockups/SignUp.png)
 ![Profile](img/Mockups/Profile.png)
