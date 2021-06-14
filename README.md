@@ -76,7 +76,7 @@ L’applicazione consente di accedere ai suddetti contenuti, potendo quindi visu
 ### Entità Reazione
 |Dato|Tipo|Descrizione|
 |-------|-------|---------|
-|Like||Indica il numero di like del post e chi l’ha effettuato<br>{tot: Int; <br> Utente: String;}|
+|Like||Indica il numero di like del post e chi l’ha effettuato|
 
 
 ## Mockups
