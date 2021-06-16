@@ -55,28 +55,26 @@ L’applicazione consente di accedere ai suddetti contenuti, potendo quindi visu
 |Email|String|email dell'utente|
 |Password|String|password scelta dall'utente|
 |Città|String|Luogo in cui risiede l'utente|
+|id|int|identificativo dell'utente|
 
 ### Entità Post
 |Dato|Tipo|Descrizione|
 |-------|-------|---------|
 |Titolo|String|Dà una descrizione generale del post creato dall’utente|
 |Testo|String|Contenuto del post |
-|Autore|String|indica l’utente che ha generato il post|
+|idUser|String|identificativo dell’utente che ha creato il post|
 |Immagine|Blob(?)|Correlata al post stesso, può essere presente o meno|
 |Tag|String|Definisce la tipologia del post|
 |DataOra|timestamp|data e ora della creazione del post|
+|Like|Int|Numero di like che ha ricevuto il post|
 
 ### Entità Commento
 |Dato|Tipo|Descrizione|
 |-------|-------|---------|
-|Autore|String|indica l’utente che ha generato il commento|
+|idUser|String|identificativo dell’utente che ha creato il post|
 |Testo|String|Contenuto del commento|
 |DataOra|timestamp|data e ora della creazione del commento|
 
-### Entità Reazione
-|Dato|Tipo|Descrizione|
-|-------|-------|---------|
-|Like||Indica il numero di like del post e chi l’ha effettuato|
 
 
 ## Mockups
